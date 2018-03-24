@@ -1,1 +1,7 @@
-Cualquier cosa
+Cómo sincronizar fork con remoto
+
+https://gist.github.com/CristinaSolana/1885435
+
+Cómo clonar una branch remota
+
+https://gist.github.com/fabianmoronzirfas/4023446
